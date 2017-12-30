@@ -10,7 +10,7 @@ Fusion de marco Backend Django REST framework con marco Frontend Angular 5
 
 *Tecnologias:
 
-Backen:
+Backend:
 - Python3
 - Django 1.11
 - Django REST framework
