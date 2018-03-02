@@ -9,7 +9,7 @@ class Employee(models.Model):
     slug        = models.SlugField(unique=True, blank=True)
     email       = models.CharField(max_length=120, help_text='Ingrese Correo Electronico', null=True, blank=True)
     featured    = models.BooleanField(default=False)
-    mobileNumber = models.IntegerField()
+    mobileNumber = models.IntegerField(null=True, blank=True)
     createdAt   = models.DateTimeField(auto_now_add=True)
     updatedAt   = models.DateTimeField(auto_now_add=True)
 

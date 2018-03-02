@@ -44,7 +44,7 @@ from rest_framework.permissions import IsAuthenticated
 
 
 class EmployeeListAPIView(ListAPIView):
-	queryset                = Employee.objects.all()
+	queryset                = Employee.objects.all().order_by('-id')
 	serializer_class        = EmployeeListSerializer
 	permission_classes = [AllowAny]
 

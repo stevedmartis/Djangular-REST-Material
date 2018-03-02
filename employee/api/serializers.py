@@ -28,7 +28,10 @@ post_detail_url = HyperlinkedIdentityField(
 class EmployeeListSerializer(ModelSerializer):
 	class Meta:
 		model = Employee
-		fields = [ 'id', 'firstName', 'lastName', 'slug', 'email', 'mobileNumber', 'featured', ]
+		fields = [ 'id', 'firstName', 'lastName', 'slug', 'email', 'mobileNumber', 'featured', 'createdAt', ]
+
+		def filter_query(self, queryset):
+			queryset = super(InvoiceViewSet)
 
 
 
