@@ -1,5 +1,8 @@
 # Djangular-REST
-Fusion de marco Backend Django REST framework con marco Frontend Angular 5
+Fusion de marco Backend Django REST framework con marco Frontend Angular 5 y Material design.
+CRUD of characters.
+Animaciones con Ngrx.
+
 
 
 <a href="https://www.youtube.com/watch?v=X2iSHZvFVzg">--> Video DEMO</a>
@@ -16,6 +19,9 @@ Backend:
 
 Frontend:
 - Angular 5
+- Material design
+- Ngrx
+- Theming
 - ng-bootstrap 4
 - Jquery
 - Font awesome
