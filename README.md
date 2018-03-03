@@ -9,7 +9,7 @@ Animaciones con Ngrx.
 
 <b>Full Stack Developed.</b> 
 
-*Tecnologias:
+Features:
 
 Backend:
 - Python 3.5
