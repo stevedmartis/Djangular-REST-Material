@@ -12,7 +12,7 @@ Animaciones con Ngrx.
 *Tecnologias:
 
 Backend:
-- Python3
+- Python 3.5
 - Django 1.11
 - Django REST framework
 - Postgresql
