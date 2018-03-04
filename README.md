@@ -5,7 +5,7 @@ Animaciones con Ngrx.
 
 
 
-<a href="https://djangular-rest.herokuapp.com/">-->DEMO AND TEST</a>
+<a href="https://djangular-rest.herokuapp.com/">--> GO DEMO!</a>
 
 <b>Full Stack Developed.</b> 
 
