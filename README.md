@@ -5,7 +5,7 @@ Animaciones con Ngrx.
 
 
 
-<a href="https://www.youtube.com/watch?v=X2iSHZvFVzg">--> Video DEMO</a>
+<a href="https://djangular-rest.herokuapp.com/">-->DEMO AND TEST</a>
 
 <b>Full Stack Developed.</b> 
 
