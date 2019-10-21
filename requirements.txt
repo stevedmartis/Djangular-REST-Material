@@ -6,7 +6,7 @@ django-braces==1.12.0
 django-datetime-widget==0.9.3
 django-extensions==1.6.1
 django-filter==1.0.4
-django-js-reverse==0.7.3
+django-js-reverse==0.9.1
 django-markdown-deux==1.0.5
 django-model-utils==3.0.0
 django-pagedown==0.1.1
