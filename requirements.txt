@@ -11,7 +11,7 @@ django-markdown-deux==1.0.5
 django-model-utils==3.0.0
 django-pagedown==0.1.1
 django-storages==1.6.3
-djangorestframework==3.3.3
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 gunicorn==19.7.1
 heroku==0.1.4
