@@ -17,7 +17,7 @@ gunicorn==19.7.1
 heroku==0.1.4
 idna==2.6
 Markdown==2.6.6
-markdown2==2.3.4
+markdown2==2.4.0
 olefile==0.44
 Pillow==4.2.1
 psycopg2==2.7.3.1
