@@ -19,7 +19,7 @@ idna==2.6
 Markdown==2.6.6
 markdown2==2.3.4
 olefile==0.44
-Pillow==4.2.1
+Pillow==9.3.0
 psycopg2==2.7.3.1
 PyJWT==1.5.2
 python-dateutil==1.5
