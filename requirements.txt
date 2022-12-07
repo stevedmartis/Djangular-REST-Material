@@ -1,4 +1,4 @@
-certifi==2017.4.17
+certifi==2022.12.7
 chardet==3.0.4
 dj-static==0.0.6
 Django==1.9.4
